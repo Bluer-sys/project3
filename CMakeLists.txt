@@ -22,4 +22,5 @@ set(CPACK_PACKAGE_VERSION_PATCH "${PROJECT_VERSION_PATCH}")
 set(CPACK_PACKAGE_CONTACT ilianovi@mail.ru)
 set(CPACK_DEBIAN_PACKAGE_SHLIBDEPS ON)
 include(CPack)
+
 # TODO: Добавьте тесты и целевые объекты, если это необходимо.
